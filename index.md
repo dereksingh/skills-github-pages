@@ -1,7 +1,4 @@
-markdown
-  ---
-  layout: default
-  title: Welcome to Taptrail
+Welcome to Taptrail
   ---
 
   # Hello, World!
